@@ -36,5 +36,7 @@ cd CODSOFT
 3. Run any project:
 
 python To-Do list GUI.py
+
 python Calculator GUI.py
+
 python Password Generator GUI.py
